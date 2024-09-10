@@ -1,4 +1,4 @@
-### Here’s a collection of TensorFlow code examples that cover various key aspects of the framework, from basic concepts to more advanced architectures. Each section represents a step in the TensorFlow learning roadmap:
+- Here’s a collection of TensorFlow code examples that cover various key aspects of the framework, from basic concepts to more advanced architectures. Each section represents a step in the TensorFlow learning roadmap:
 
 ### 1. Basic Tensor Operations
 ```python
